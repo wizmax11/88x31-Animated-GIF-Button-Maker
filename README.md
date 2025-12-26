@@ -1,3 +1,6 @@
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/python-3.x-blue)
+
 # 88x31 Animated Button Maker
 
 A simple retro-style 88x31 button generator built with Python and Tkinter.
@@ -29,6 +32,7 @@ Attribution is appreciated but not required.
 ```bash
 pip install -r requirements.txt
 python main.py
+
 
 
 
