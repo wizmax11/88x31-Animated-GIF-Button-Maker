@@ -5,7 +5,7 @@
 
 A simple retro-style 88x31 button generator built with Python and Tkinter.
 
-Note : Font won't work for now : ) I might add them later.
+Note : Font won't work for now : ) I might add them later. 「if they're installed on Your PC they might work」
 
 ## Features
 - Create classic 88x31 buttons
@@ -32,6 +32,7 @@ Attribution is appreciated but not required.
 ```bash
 pip install -r requirements.txt
 python main.py
+
 
 
 
